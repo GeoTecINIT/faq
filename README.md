@@ -7,7 +7,6 @@ This document describes common tasks and useful information for GEOTEC members
 
 ## Zenodo - UJI community
 
-
 [Universitat Jaume I Research Data](https://zenodo.org/communities/universitatjaumei/) community on Zenodo lists collections of datasets and publications from Universitat Jaume I researchers.
 
 
