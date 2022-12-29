@@ -2,7 +2,31 @@
 
 This document describes common tasks and useful information for GEOTEC members 
 
+[Create a record on Zenodo - text in `description` and `additional notes`](#Zenodo-Description)
+[Create a record on Zenodo - licence](#Zenodo-License)
 [Add a record on Zenodo to the UJI community](#Zenodo-UJI-community)
+
+
+## Zenodo - Description 
+
+Within the `Basic information` section 
+
+- Write in `Description` field a similar text as the one below.
+
+*Final code and data used for <PAPER, THESIS ,PRESENTATION, DATA, etc>*
+
+*The software repository in GitHub <ADD LINK TO GITHUB REPO>*
+
+- Write in `Additional notes` a similar text as the one below. This text appears in the yellow label of the record
+
+*The documents in this repository are licensed under a Creative Commons Attribution 4.0 International License. All contained code is licensed under the Apache License 2.0. The data used is licensed under a Open Data Commons Attribution License.*
+
+
+## Zenodo - License
+
+Until stated otherwise, GEOTEC uses the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) by default for software resources generated/created by the GEOTEC members.
+
+Within the `License` section, choose **Apache Licence 2.0** for  the `Licence` field
 
 
 ## Zenodo - UJI community
