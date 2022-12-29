@@ -2,12 +2,14 @@
 
 This document describes common tasks and useful information for GEOTEC members 
 
-[Create a record on Zenodo - text in `description` and `additional notes`](#Zenodo-Description)
-[Create a record on Zenodo - licence](#Zenodo-License)
-[Add a record on Zenodo to the UJI community](#Zenodo-UJI-community)
+- [Create a record on Zenodo - text in `description` and `additional notes`](#zenodo---description)
+- [Create a record on Zenodo - licence](#zenodo---license)
+- [Add a record on Zenodo to the UJI community](#zenodo---uji-community)
 
 
 ## Zenodo - Description 
+
+When creating a new record on Zenodo, pay attention to the following fields.
 
 Within the `Basic information` section 
 
@@ -26,7 +28,7 @@ Within the `Basic information` section
 
 Until stated otherwise, GEOTEC uses the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) by default for software resources generated/created by the GEOTEC members.
 
-Within the `License` section, choose **Apache Licence 2.0** for  the `Licence` field
+When creating a new record on Zenodo, choose **Apache Licence 2.0** for the `Licence` field within the `License` section. 
 
 
 ## Zenodo - UJI community
